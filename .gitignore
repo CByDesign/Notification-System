@@ -1,0 +1,19 @@
+# Ignore compiled files
+dispatcher
+producer
+client
+
+# Ignore object files
+*.o
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore build directories
+/build/
+/dist/
